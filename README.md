@@ -1,5 +1,8 @@
 
 # Guia_Da_Carreira_Engenheiro_Software( CC/ADS/EC/ES)
+
+# PRIMEIRA PARTE ENGENHARIA DE SOFTWARE
+
  Salve pessoas, bem  este é um repositório baseado no conteúdo da faculdade de engenharia de software e seus respectivos conteúdos.
 Inicialmente estava pensando em deixar o conteúdo apenas na minha máquina local, mas decidi fazer este repositório para ajudar quem está começando agora e quem pretende cursar engenharia de software.
 No momento este repositório contém apenas o 4 semestre do curso(ainda em construção),focando apenas na parte prática do curso e tudo que está relacionado ao mesmo.
@@ -70,3 +73,21 @@ Livros que podem Te Ajudar no Segundo Semestre
 ****
 
 -[Livros Segundo Semestre](https://drive.google.com/drive/folders/1MipTi0PfcKGuT_PfyGLN8G5O7pc3V1Ne?usp=share_link)
+
+
+# SEGUNDA PARTE CIENCIA DA COMPUTACAO
+
+***
+AQUI IRA FICAR O CONTEUDO DE CC
+***
+
+# TERCEIRA PARTE ENGENHARIA DA COMPUTACAO
+***
+AQUI IRA FICAR O CONTEUDO DE  ES
+***
+# ANALISE E DESENVOLVIMENTO DE SISTEMA
+***
+AQUI IRA FICAR O CONTEUDO DE ADS
+***
+
+
