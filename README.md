@@ -1,5 +1,5 @@
 
-# Faculdade De engenharia de software
+# Guia_Da_Carreira_Engenheiro_Software( CC/ADS/EC/ES)
  Salve pessoas, bem  este é um repositório baseado no conteúdo da faculdade de engenharia de software e seus respectivos conteúdos.
 Inicialmente estava pensando em deixar o conteúdo apenas na minha máquina local, mas decidi fazer este repositório para ajudar quem está começando agora e quem pretende cursar engenharia de software.
 No momento este repositório contém apenas o 4 semestre do curso(ainda em construção),focando apenas na parte prática do curso e tudo que está relacionado ao mesmo.
